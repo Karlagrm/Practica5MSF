@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: Lenguaje m; python
+type: software
+authors:
+  - given-names: Karla Valeria
+    email: l22212386@tectijuana.edu.mx
+    affiliation: Tecnm-ITT
+    family-names: Garcia Murillo
+repository-code: 'https://github.com/Karlagrm/Practica4MSF'
+keywords:
+  - >-
+    Palabras clave: Glóbulos rojos; Eritrocitos; Modelo matemático; Transfusión; Paciente.
+    Simulaciones numéricas; Normotenso; Hipotenso; Hipertenso
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-07'
