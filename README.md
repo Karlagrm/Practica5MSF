@@ -42,12 +42,12 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: Glóbulos rojos; Eritrocitos; Modelo matematico; Transfusión; Paciente.
+Palabras clave: Glóbulos rojos; Eritrocitos; Modelo matemático; Transfusión; Paciente.
 
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno computacional de MATLAB \[.mlx].
-2. Imágenes de las simulaciones \[.pdf y .png].
+2. Imágenes de las simulaciones \[.pdf].
 
 ## Referencias
 
